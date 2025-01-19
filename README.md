@@ -6,7 +6,7 @@
 SQL, Python, Excel: Building foundational skills for data analysis and data science.
 Power BI, Tableau, Machine Learning: Exploring advanced tools and techniques to deliver actionable insights and predictive models.
 🛠️ Projects I’m working on:
-
+Zomato Data Analysis: Analyzing food delivery trends, customer behavior, and operational efficiency.
 Smart Loan Manager: A MySQL-based loan management system with triggers and stored procedures to automate loan processing, interest calculations, and customer categorization.
 Spotify Data Analysis: Analyzing user engagement, content trends, and performance metrics on Spotify.
 Instagram Notification Analysis: Optimizing notification strategies to improve user retention and engagement.
